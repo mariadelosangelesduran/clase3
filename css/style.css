@@ -1,0 +1,21 @@
+body{
+    background-color: red  ;
+} 
+
+body{
+    background-color: blue;
+}
+
+h2{
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+header{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
